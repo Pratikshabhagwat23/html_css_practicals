@@ -1,0 +1,114 @@
+.box1{
+    background-color: #8165654A;
+    display: flex;
+    justify-content: space-evenly;
+    width: 1400px;
+}
+.Home{
+    padding-left: 650px;
+}
+.container{
+    background-color: aqua;
+    height: 600px;
+    width: 1395px;
+    /* margin-left: 50px; */
+    flex-direction: row;
+}
+.text{
+    text-align: center;
+    padding-top: 100px;
+    font-size: 30px;
+}
+.first-box{
+    height: 300px;
+    width: 200px;
+    background-color: #FFFFFF;
+    box-shadow: 10px 10px 10px #EC8383D4;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    position: relative;
+}
+.second-box{
+    height: 300px;
+    width: 200px;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 10px 10px 10px #EC8383D4;
+    justify-content: space-around;
+    position: relative;
+
+}
+.third-box{
+    height: 300px;
+    width: 200px;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 10px 10px 10px #EC8383D4;
+    justify-content: space-around;
+    position: relative;
+
+}
+.container1{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 90px;
+}
+.sub-first{
+    height: 100px;
+    width: 100px;
+    background-color: #D9D9D9;
+    border-radius: 50%;
+    position: relative;
+    left: 50px;
+}
+.sub-1{
+    height: 80px;
+    width: 80px;
+    /* background-color: pink; */
+    position: relative;
+    left: 24px;
+    padding-left: 10px;
+}
+.sub-second{
+    height: 100px;
+    width: 100px;
+    background-color: #D9D9D9;
+    left: 50px;
+
+    position: relative;
+    border-radius: 50%;
+
+}
+.sub-2{
+    height: 80px;
+    width: 80px;
+    /* background-color: red; */
+    position: relative;
+    display: flex;
+    left: 24px;
+    /* padding-left: 10px; */
+
+}
+.sub-third{
+    height: 100px;
+    width: 100px;
+    background-color: #D9D9D9;
+    /* top: 34px; */
+    left: 50px;
+    position: relative;
+    border-radius: 50%;
+
+}
+.sub-3{
+    height: 80px;
+    width: 80px;
+    /* background-color: violet; */
+    position: relative;
+    display: flex;
+    /* top: 34px; */
+    /* padding-left: 10px; */
+    left: 24px;
+}
